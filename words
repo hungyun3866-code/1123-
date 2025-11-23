@@ -1,0 +1,6 @@
+let words = [
+  // 您可以在這裡繼續新增單字
+  { english: "cataclysm", chinese: "大災難；劇變", hint: "C..." },
+  { english: "zenith", chinese: "頂點；巔峰", hint: "Z..." }
+  // ...
+];
